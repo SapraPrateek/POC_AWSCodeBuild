@@ -1,0 +1,4 @@
+variable "Test" {
+    type = string 
+    description = "Test"
+}
